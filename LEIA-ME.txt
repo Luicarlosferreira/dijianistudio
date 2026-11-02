@@ -1,0 +1,23 @@
+SITE STUDIO DIJIANE DUTRA - ARQUIVOS FINAIS
+
+Conteudo:
+- index.html ........ o site (uma pagina)
+- images/ ........... fotos, imagem de partilha e icones
+- favicon.ico, robots.txt
+
+ANTES DE PUBLICAR
+1. Abra o index.html e troque SEU-DOMINIO.pt pelo endereco real do site
+   (aparece 2 vezes, nas linhas og:url e og:image).
+2. Confira os textos das perguntas frequentes e da Politica de Privacidade.
+   Foram escritos como modelo e devem ser revistos pela Dijiane
+   (idealmente por um profissional de protecao de dados).
+
+COMO PUBLICAR NA VERCEL
+1. No repositorio do GitHub, substitua os arquivos do projeto por estes
+   (ou crie um repositorio novo so com estes arquivos).
+2. A Vercel publica sozinha a cada alteracao enviada ao GitHub.
+3. Em Settings > Domains, adicione o dominio e siga os registos DNS indicados.
+
+PENDENTE NO SITE
+- Fotos dos servicos no topo e no "Realce a sua beleza" (ja ha uma foto aplicada).
+- Quando existirem depoimentos reais, a secao pode voltar.
